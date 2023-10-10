@@ -1,0 +1,14 @@
+.foot {
+    display: flex;
+    justify-content: space-around;
+}
+
+.social {
+    width: 50em;
+}
+
+#adm {
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+}

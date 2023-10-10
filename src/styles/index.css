@@ -1,0 +1,26 @@
+
+#nombre-rec {
+    width: 100vw;
+    height: 15vh;
+    background-color: aqua;
+}
+
+#receta-del-dia {
+    width: 100vw;
+    height: 80vh;
+    background-color: bisque;
+}
+
+#login {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    display: none;
+}
+
+#loginForm {
+    font-size: 20em;
+    padding: 2em;
+    border-radius: 20px;
+    background-color: rgba(150, 143, 143, 0.445);
+}
